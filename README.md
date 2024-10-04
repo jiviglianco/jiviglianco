@@ -1,10 +1,14 @@
 # Hello, World! 👋
 
-I'm Juan Ignacio Viglianco, a passionate backend developer with 8 years of experience. Welcome to my GitHub profile!
+I'm Juan Ignacio Viglianco, a passionate software engineer. Welcome to my GitHub profile!
 
 ## About Me
 
-I love building robust and scalable backend systems using various technologies and frameworks.
+I am a software engineer with over 8 years of experience in full-stack development. I have contributed to
+a diverse array of projects, including those in finance, banking, cryptocurrency, and investments, as well
+as veterinary laboratories and arm care for professional baseball players. My passion for technology and
+dedication to excellence have allowed me to master various technologies and adapt swiftly to the unique
+challenges of each project.
 
 ## Skills
  
